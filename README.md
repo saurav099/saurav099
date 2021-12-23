@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Machine Learning and Deep Learning
-- 🌱 I’m currently learning ...Python and Machine Learing 
+- 🌱 I’m currently learning ...Deep Learning
 - 👯 I’m looking to collaborate on ...Projects realted to Artificial Intelligence and Machine Learning
 - 🤔 I’m looking for help with ...Deep Learning 
 - 💬 Ask me about ...anything
